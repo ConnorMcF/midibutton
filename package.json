@@ -1,0 +1,14 @@
+{
+  "name": "midibutton",
+  "version": "1.0.0",
+  "description": "MIDI Button is a simple way to interface with MIDI Controllers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor McFarlane <connormcf@0x0.ltd> (https://connormcf.com)",
+  "license": "MIT",
+  "dependencies": {
+    "midi": "^0.9.5"
+  }
+}
