@@ -1,6 +1,6 @@
 {
   "name": "midibutton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MIDI Button is a simple way to interface with MIDI Controllers",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "Connor McFarlane <connormcf@0x0.ltd> (https://connormcf.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/connormcf/midibutton.git"
+  },
   "dependencies": {
     "midi": "^0.9.5"
   }
